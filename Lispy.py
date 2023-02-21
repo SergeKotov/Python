@@ -1,4 +1,7 @@
+# Peter Norvig
 # Lisp interpreter
+# adopted from http://norvig.com/lispy.html
+
 import math
 import operator as op
 
